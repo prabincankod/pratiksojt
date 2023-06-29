@@ -229,7 +229,7 @@ function App() {
                   <span className="label-text">Message</span>
                 </label>
                 <textarea
-//  @ts-ignore 
+                  //  @ts-ignore 
                   type="text"
                   placeholder="Your Message Here"
                   className="input input-bordered"
@@ -245,7 +245,7 @@ function App() {
 
       <footer className="footer footer-center p-4 bg-base-300 text-base-content">
         <div>
-          <p>{new Date().getFullYear()} Made with by @prabincankod </p>
+          <p>{new Date().getFullYear()} All Rights Reserved </p>
         </div>
       </footer>
     </div>
